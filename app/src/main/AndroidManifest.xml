@@ -21,4 +21,6 @@
             android:value="55zr2ajmkj" />
     </application>
 
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
 </manifest>
